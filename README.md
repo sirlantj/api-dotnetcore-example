@@ -16,7 +16,7 @@ Here's reposytory to my SPA application consuming this API
 Also you can run the Project in Visual Studio Code (Windows, Linux or MacOS).
 
 
-## Technologies implemented:
+## Technologies:
 
 - ASP.NET 6.0
 - SQL Server
