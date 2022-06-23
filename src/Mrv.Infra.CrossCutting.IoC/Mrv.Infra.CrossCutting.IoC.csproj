@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\Mrv.Application\Mrv.Application.csproj" />
+		<ProjectReference Include="..\Mrv.Domain\Mrv.Domain.csproj" />
+		<ProjectReference Include="..\Mrv.Infra.Data\Mrv.Infra.Data.csproj" />
+	</ItemGroup>
+
+</Project>
